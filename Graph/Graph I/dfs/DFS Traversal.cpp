@@ -1,3 +1,4 @@
+// https://www.codingninjas.com/studio/problems/dfs-traversal_630462?leftPanelTabValue=PROBLEM
 void dfs(vector<int> &res,int N, vector<vector<int>> adjlst,vector<bool> &visited)
 {
     visited[N] = true;
